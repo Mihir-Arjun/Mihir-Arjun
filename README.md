@@ -18,6 +18,3 @@ Hello! 👋 I'm Mihir, a computer science honours student passionate about data 
 - **Other Tools**: Docker, Git
 
 ---
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir-Arjun&show_icons=true&theme=radical)  
